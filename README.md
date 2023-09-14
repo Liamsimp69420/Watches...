@@ -17,7 +17,6 @@
                 <li><a href="#about">About us</a></li>
             </ul>
         </nav>
-    </header>
 
     <section id="home">
        <h1> William Severin Watches<h1> 
@@ -44,6 +43,7 @@
     <footer>
         
     </footer>
+  </header>
 </body>
 </html>
 
