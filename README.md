@@ -57,7 +57,7 @@
   </details>
   </section>
     
-    <section id="about">
+    <section id="about"
       <h2> About us </h2> 
       <p> WSW was founded after our CEO, William, saw a watch that his friend had pulled apart, the watch had it dial pulled off and William fell in love with the design. <br>
       <br> Using this 'no-dial' design William designed the company's first watch: the <b> William Severin One </b>. The <b> William Severin One </b> sported blue hands and a blue and white striped nato strap. <br>
