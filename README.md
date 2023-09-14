@@ -19,10 +19,4 @@
     </header>
 
 
-    </section>
-
-    <footer>
-        <p>&copy; 2023 Watch Store</p>
-    </footer>
-</body>
-</html>
+    
