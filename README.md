@@ -18,22 +18,6 @@
         </nav>
     </header>
 
-    <section class="Shop">
-        <article class="Shop">
-            <img src="https://docs.google.com/document/d/1l7X6GOZQvpo7ISdsJ72E-fQOySkCxYetw_NjOfIbSBo/edit?usp=sharing" alt="Watch 1">
-            <h2>William Severin 1</h2>
-            <p class="price">$249.99</p>
-            <button>Add to Cart</button>
-        </article>
-
-        <article class="product">
-            <img src="watch2.jpg" alt="Watch 2">
-            <h2>William Severin 2</h2>
-            <p class="price">$149.99</p>
-            <button>Add to Cart</button>
-        </article>
-
-      
 
     </section>
 
