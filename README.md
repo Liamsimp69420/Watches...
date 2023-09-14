@@ -4,6 +4,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .grow-text {
+            font-size: 16px;
+            transition: transform 0.3s; 
+        }  
+        .grow-text:hover {
+            transform: scale(1.2); 
+        }
+    </style>
     <link rel="stylesheet" href="styles.css"> 
 </head>
 <body>
@@ -12,7 +23,7 @@
         <img src = "WSWLOGO.png"> 
         <nav>
             <ul>
-                <li><a href="#home">Home</a></li>
+                <span class="grow-text"><li><a href="#home">Home</a></li></span>
                 <li><a href="#shop">Shop</a></li>
                 <li><a href="#watches">Watches</a></li>
                 <li><a href="#about">About us</a></li>
