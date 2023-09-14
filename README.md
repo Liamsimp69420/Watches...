@@ -9,6 +9,7 @@
 <body>
     <header>
         <h1>William Severin Watches</h1>
+        <img src = "WSWLOGO.png"> 
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
