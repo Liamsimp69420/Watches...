@@ -31,7 +31,7 @@
     <h2> William Severin One </h2> 
     <img src = "Bluewatchconcept.png" width ="250"> 
    <details><summary> Description </summary> 
-    <p> The <b> William Severin One </b> is a concept watch designed in house. It has no dial and features beatiful blue hands with an automatic movement and a nylon strap. </p>
+    <p> The <b> William Severin One </b> is a concept watch designed in house. It has no dial and features beautiful blue hands with an automatic movement and a nylon strap. </p>
    </details>
    <details><summary> Specifications </summary> 
     <p> Movement | Seiko NH35 (3 hand & date) <br> Case size | 40mm 
@@ -43,7 +43,7 @@
    <h2> William Severin Two </h2> 
    <img src = "WSW2.png" width ="250"> 
   <details><summary> Description </summary> 
-   <p> The <b> William Severin Two </b> is a concept watch designed in house. It has no dial and features beatiful red hands with an automatic movement and a nylon strap. </p>
+   <p> The <b> William Severin Two </b> is a concept watch designed in house. It has no dial and features beautiful red hands with an automatic movement and a nylon strap. </p>
   </details>
   <details><summary> Specifications </summary> 
    <p> Movement | Seiko NH35 (3 hand & date) <br> Case size | 40mm 
