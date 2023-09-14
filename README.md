@@ -30,7 +30,15 @@
     <section id= "watch 1" 
     <h2> William Severin One </h2> 
     <img src = "Bluewatchconcept.png" width ="250">
-    <button> $249.99 Add to Cart</button>
+    <title>$249.99</title>
+    <style>
+        .rounded-box {
+            background-color: #006400; 
+            color: #fff; 
+            padding: 10px; 
+            border-radius: 10px; 
+        }
+    </style>
    <details><summary> Description </summary> 
     <p> The <b> William Severin One </b> is a concept watch designed in house. It has no dial and features beautiful blue hands with an automatic movement and a nylon strap. </p>
    </details>
