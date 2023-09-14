@@ -14,7 +14,7 @@
             <ul>
                 <li><a href="#home">Home</a>
                 <li><a href="#shop">Shop</a></li>
-                <li><a href="#watches">Watches</a></li>
+                <li><a href="#watch 1">Watches</a></li>
                 <li><a href="#about">About us</a></li>
             </ul>
         </nav>
