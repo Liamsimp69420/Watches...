@@ -35,7 +35,8 @@
    </details>
    <details><summary> Specifications </summary> 
     <p> Movement | Seiko NH35 (3 hand & date) <br> Case size | 40mm 
-    <br> Case material | Stainless Steel 
+    <br> Case material | Stainless Steel
+    <br> Crystal type | Saphire crystal
     <br> Reference Number | WSW-1-22</p>
    </details>
    </section>
@@ -48,6 +49,7 @@
   <details><summary> Specifications </summary> 
    <p> Movement | Seiko NH35 (3 hand & date) <br> Case size | 40mm 
    <br> Case material | Stainless Steel 
+   <br> Crystal type | Saphire crystal
    <br> Reference Number | WSW-2-22</p>
   </details>
   </section>
