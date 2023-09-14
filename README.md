@@ -12,10 +12,10 @@
         <img src = "WSWLOGO.png"> 
         <nav>
             <ul>
-                <li><a href="#home">Home</a>
-                <li><a href="#shop">Shop</a></li>
-                <li><a href="#watches">Watches</a></li>
-                <li><a href="#about">About us</a></li>
+                <li><a href="#home"><b>Home</b></a>
+                <li><a href="#shop"><b>Shop</b></a></li>
+                <li><a href="#watches"><b>Watches</b></a></li>
+                <li><a href="#about"><b>About us</b></a></li>
             </ul>
         </nav>
 
