@@ -29,7 +29,8 @@
     <h2> Watches </h2>
     <section id= "watch 1" 
     <h2> William Severin One </h2> 
-    <img src = "Bluewatchconcept.png" width ="250"> 
+    <img src = "Bluewatchconcept.png" width ="250">
+    <button> $249.99 Add to Cart</button>
    <details><summary> Description </summary> 
     <p> The <b> William Severin One </b> is a concept watch designed in house. It has no dial and features beautiful blue hands with an automatic movement and a nylon strap. </p>
    </details>
@@ -42,7 +43,8 @@
    </section>
    <section id= "watch 2" 
    <h2> William Severin Two </h2> 
-   <img src = "WSW2.png" width ="250"> 
+   <img src = "WSW2.png" width ="250">
+   <button> $249.99 Add to Cart</button>
   <details><summary> Description </summary> 
    <p> The <b> William Severin Two </b> is a concept watch designed in house. It has no dial and features beautiful red hands with an automatic movement and a nylon strap. </p>
   </details>
