@@ -19,15 +19,15 @@
     </header>
 
     <section id="home">
-        <!-- Home section content goes here -->
+       
     </section>
 
     <section id="shop">
-        <!-- Shop section content goes here -->
+      
     </section>
 
     <section id="contact">
-        <!-- Contact section content goes here -->
+      
     </section>
 
     <!-- Rest of your content -->
