@@ -30,7 +30,7 @@
       
     </section>
 
-    <!-- Rest of your content -->
+ 
 
     <footer>
         
