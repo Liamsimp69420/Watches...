@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        
+        <h1> </h1>
         <img src = "WSWLOGO.png"> 
         <nav>
             <ul>
