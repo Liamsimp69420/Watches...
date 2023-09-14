@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file for styling -->
+    <link rel="stylesheet" href="styles.css"> 
 </head>
 <body>
     <header>
@@ -30,15 +30,7 @@
     <section id= "watch 1" 
     <h2> William Severin One </h2> 
     <img src = "Bluewatchconcept.png" width ="250">
-    <title>$249.99</title>
-    <style>
-        .rounded-box {
-            background-color: #006400; 
-            color: #fff; 
-            padding: 10px; 
-            border-radius: 10px; 
-        }
-    </style>
+    <button> $249.99 Add to cart </button>
    <details><summary> Description </summary> 
     <p> The <b> William Severin One </b> is a concept watch designed in house. It has no dial and features beautiful blue hands with an automatic movement and a nylon strap. </p>
    </details>
