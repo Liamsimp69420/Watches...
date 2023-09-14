@@ -23,7 +23,7 @@
        <h1> William Severin Watches<h1> 
     </section>
 <h2> Home </h2> 
-    <section id="shop"
+    <section id="shop">
 <h2> Shop </h2> 
 <li><a href="#watch 2"><img src = "WSW2.png"  alt = "William Severin Two" width = "130"></a></li> <li><a href="#watch 1"><img src = "Bluewatchconcept.png" width = "130" height = "230"></a></li> 
     </section>
