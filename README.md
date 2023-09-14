@@ -19,8 +19,8 @@
         </nav>
     </header>
 
-    <section class="products">
-        <article class="product">
+    <section class="Shop">
+        <article class="Shop">
             <img src="https://docs.google.com/document/d/1l7X6GOZQvpo7ISdsJ72E-fQOySkCxYetw_NjOfIbSBo/edit?usp=sharing" alt="Watch 1">
             <h2>William Severin 1</h2>
             <p class="price">$249.99</p>
