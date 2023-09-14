@@ -33,7 +33,7 @@
     <!-- Rest of your content -->
 
     <footer>
-        <p>&copy; 2023 William Severin Watches</p>
+        
     </footer>
 </body>
 </html>
